@@ -16,7 +16,7 @@ Call static methods from `Search.java`:
 Search.BFS(tree, goal);
 Search.DFS(tree, goal);
 Search.DFSLimited(tree, depthLimit, goal);
-Search.iterativeDFS(tree, goal);
+Search.iterativeDFS(tree, goal);```
 
 
 ## Project 2: Simple Reflex Agent
