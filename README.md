@@ -49,4 +49,8 @@ javac com/astar/*.java
 java com.astar.Main
 ```
 
+Base code structure or logic may be adapted from course-provided material in ITCS-4230.
+All logic for BFS, DFS, and A* search was written from scratch, based on algorithm theory.  
+Only the class headers and file structure were provided by the course.
+
 
