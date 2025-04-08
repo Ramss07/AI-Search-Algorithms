@@ -1,6 +1,6 @@
-## 📁 Projects Overview
+## Projects Overview
 
-### 🔍 1. Uninformed Search (BFS, DFS)
+### 1. Uninformed Search (BFS, DFS)
 
 Implements classic uninformed search algorithms on a binary tree structure to locate a target node without using any heuristics.
 
